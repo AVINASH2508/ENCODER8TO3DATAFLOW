@@ -61,8 +61,8 @@ endmodule
 ```
 
 ```
-Developed by:MAGESH.S
-RegisterNumber:24900241
+Developed by:AVINASH K
+RegisterNumber:24901328
 ```
 
 
